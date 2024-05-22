@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello, I'm Art Zenuni! 👋
 
-<!--
-**ArtZenuni/ArtZenuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=artzenuni&color=brightgreen)
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Learner based in London. I love trying to create beautiful, responsive, and user-friendly web applications. Currently, I'm diving deep into the basics, learning HTML, CSS and JavaScript, I am always eager to learn new technologies and improve my skills.
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub, VS Code, Figma
+- **Learning:** TypeScript, Next.js
+
+## 📚 What I'm Currently Learning
+
+I'm currently focused on developing the basics, I.E getting into the main coding languages required for Front End Devlopment.
+
+## 🔗 Connect with Me
+
+- [LinkedIn] (N / A)
+- [Portfolio] (N / A)
+
+- ## 💬 Let's Chat!
+
+Feel free to reach out if you want to discuss front-end development, share ideas, or collaborate on projects. I'm always open to connecting with like-minded individuals!
