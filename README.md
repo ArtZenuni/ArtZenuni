@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Learner based in London. I love trying to create beautiful, responsive, and user-friendly web applications. Currently, I'm diving deep into the basics, learning HTML, CSS and JavaScript, I am always eager to learn new technologies and improve my skills.
+I'm a passionate Front End Developer based in London. I creating beautiful, responsive, and user-friendly websites. I've already mastered CSS, HTML and JS To a Professional level. Currently, I'm diving deep certain frameworks (Mainly Bootstrap), I am always eager to learn new technologies and improve my skills.
 
 ## 🛠️ Technologies & Tools
 
@@ -14,7 +14,7 @@ I'm a passionate Learner based in London. I love trying to create beautiful, res
 
 ## 📚 What I'm Currently Learning
 
-I'm currently focused on developing the basics, I.E getting into the main coding languages required for Front End Devlopment.
+I'm currently focused on mastering frameworks in order to improve my efficiency in Front End Development.
 
 ## 🔗 Connect with Me
 
