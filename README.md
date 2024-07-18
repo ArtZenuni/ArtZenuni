@@ -14,7 +14,7 @@ I'm a passionate Front End Developer based in London. I have a passion for creat
 
 ## 📚 What I'm Currently Learning
 
-I'm currently focused on mastering frameworks in order to improve my efficiency in Front End Development.
+I'm currently focused on mastering more frameworks in order to improve my efficiency in Front End Development.
 
 ## 🔗 Connect with Me
 
