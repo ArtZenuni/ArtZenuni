@@ -10,7 +10,7 @@ I'm a passionate Front End Developer based in London. I have a passion for creat
 
 - **Languages:** HTML, CSS, JavaScript
 - **Tools:** Git, GitHub, VS Code, Figma
-- **Learning:** TypeScript, Next.js
+- **Learning:** Next.js
 
 ## 📚 What I'm Currently Learning
 
@@ -18,8 +18,8 @@ I'm currently focused on mastering frameworks in order to improve my efficiency 
 
 ## 🔗 Connect with Me
 
-- [LinkedIn] (N / A)
-- [Portfolio] (N / A)
+- [LinkedIn] (https://www.linkedin.com/in/art-zenuni-979193315/)
+- [Portfolio] (https://artzenuni.github.io/Portfolio/)
 
 - ## 💬 Let's Chat!
 
