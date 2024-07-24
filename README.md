@@ -4,13 +4,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate Front End Developer based in London. I have a passion for creating beautiful, responsive, and user-friendly websites. I've already mastered CSS, HTML and JS To a Professional level. Currently, I'm diving deep certain frameworks (Mainly Bootstrap), I am always eager to learn new technologies and improve my skills.
+I'm a passionate Front End Developer based in London. I have a passion for creating beautiful, responsive, and user-friendly websites. I've already mastered CSS, HTML and JS To a Professional level. Currently, I'm diving deep into Angular, I am always eager to learn new technologies and improve my skills.
 
 ## 🛠️ Technologies & Tools
 
 - **Languages:** HTML, CSS, JavaScript
-- **Tools:** Git, GitHub, VS Code, Figma
-- **Learning:** Next.js
+- **Tools:** Git, GitHub, VS Code, Figma, React
+- **Learning:** Angular
 
 ## 📚 What I'm Currently Learning
 
