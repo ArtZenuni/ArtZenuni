@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Front End Developer based in London. I have a passion for creating beautiful, responsive, and user-friendly websites. I've already mastered CSS, HTML and JS To a Professional level. Currently, I'm diving deep into Angular, I am always eager to learn new technologies and improve my skills.
+I'm a passionate Front End Developer based in London. I have a passion for creating beautiful, responsive, and user-friendly websites. I've already mastered CSS, HTML, JS, React as well as design tools such as Figma To a Professional level. Currently, I'm diving deep into Angular, I am always eager to learn new technologies and improve my skills.
 
 ## 🛠️ Technologies & Tools
 
