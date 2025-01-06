@@ -8,7 +8,6 @@
 ### 📫 Let's Connect:
 - **Email**: [art-zenuni@hotmail.co.uk](mailto:art-zenuni@hotmail.co.uk)
 - **LinkedIn**: [Art Zenuni](https://www.linkedin.com/in/art-zenuni-979193315/)
-- **GitHub**: [ArtZenuni](https://github.com/ArtZenuni)
 - **Helping With Islam**: [HelpingWithIslam.com](https://HelpingWithIslam.com)  
 - **WebPite**: [WebPite.co.uk](https://WebPite.co.uk)
 
