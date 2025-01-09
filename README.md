@@ -40,7 +40,7 @@ I am an **accomplished Full Stack Developer** with almost 5 years of Front-End e
 - **Role**: Founder  
 - Designed an **educational platform** for Islamic learning.  
 - Created **interactive games, guides**, and custom APIs.  
-- Achieved a **100% retention rate** in the first month!  
+- Achieved an almost **100% retention rate** in the first month!  
 
 ### **UTeachMi**
 - **Role**: Web Developer (Part-Time)  
@@ -61,7 +61,7 @@ I am an **accomplished Full Stack Developer** with almost 5 years of Front-End e
 
 ## 🏆 Achievements
 - Increased client website traffic by **42%**, with one client achieving **172% growth**.  
-- Received positive feedback from **92% of users** on HelpingWithIslam.  
+- Received positive feedback from **82% of users** on HelpingWithIslam.  
 
 ---
 
