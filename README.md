@@ -14,10 +14,10 @@
 ---
 
 ## 👨‍💻 About Me
-I am an **accomplished Full Stack Developer** with almost 5 years of Front-End experience. I specialize in creating optimized, user-friendly web solutions. From crafting responsive websites to teaching web development, I thrive on delivering high-quality projects and contributing to a seamless user experience.  
+I am an **accomplished Full Stack Developer** with almost 5 years of Web experience. I specialize in creating optimized, user-friendly web solutions. From crafting responsive websites to teaching web development, I thrive on delivering high-quality projects and contributing to a seamless user experience.  
 
 ### 🚀 Expertise:
-- **Frontend Development**: HTML, CSS, JavaScript, React, Next.js  
+- **Frontend Development**: HTML, CSS, JavaScript, React, Next.js, WordPress
 - **Backend Development**: Node.js, MongoDB  
 - **Tools & Platforms**: Git, Vercel  
 - **Key Strengths**:  
@@ -43,7 +43,7 @@ I am an **accomplished Full Stack Developer** with almost 5 years of Front-End e
 - Achieved an almost **100% retention rate** in the first month!  
 
 ### **UTeachMi**
-- **Role**: Web Developer (Part-Time)  
+- **Role**: Web Developer
 - Spearheaded the migration of the company's outdated website to React, improving load times by **300%**.  
 - Led tech lessons for primary schools.
 
