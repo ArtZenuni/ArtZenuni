@@ -20,7 +20,7 @@
 ---
 
 ## 👨‍💻 About Me  
-I am a **Junior Full Stack Developer** passionate about building meaningful and user-friendly websites. My journey started with **freelance projects at WebPite**, where I mainly worked with **HTML, CSS, JavaScript, and WordPress** to deliver practical websites for small businesses.  
+I am a **Junior Full Stack Developer** passionate about building meaningful and user-friendly websites. My journey started with **freelance projects at WebPite**, where I mainly worked with **HTML, CSS, JavaScript, and WordPress** to deliver practical websites for small businesses, as well as currently working as a web developer / Instructor at **UTeachMi**  
 
 Alongside freelancing, I founded **Helping With Islam**, an educational platform designed to make Islamic knowledge more accessible online. I am now expanding my skills into **backend development** with Node.js, MongoDB, PHP, and MySQL.  
 
