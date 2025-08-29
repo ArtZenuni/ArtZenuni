@@ -63,7 +63,7 @@ Alongside freelancing, I founded **Helping With Islam**, an educational platform
 - Currently working on a **Quran and Tafsir section** using backend development.  
 
 ### **UTeachMi** (Junior Web Developer)  
-- Assisted in migrating the company’s website to React.  
+- Assisting in migrating the company’s website to React.  
 - Taught **tech and coding lessons** in primary schools.  
 
 ---
