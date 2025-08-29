@@ -60,7 +60,7 @@ Alongside freelancing, I founded **Helping With Islam**, an educational platform
 ### **HelpingWithIslam** (Founder)  
 - Created an **educational website** for reverts and learners of Islam.  
 - Developed features like **interactive quizzes, guides, and stories**.  
-- Currently working on a **Quran and Tafsir section** using backend development.  
+- Informative sections such as a **Quran and Tafsir section** using backend development.  
 
 ### **UTeachMi** (Junior Web Developer)  
 - Assisting in migrating the company’s website to React.  
